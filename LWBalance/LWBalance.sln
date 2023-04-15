@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LWBalance", "LWBalance\LWBalance.csproj", "{F7BBC1C0-EEFF-49EC-8248-8A6A7F2B4686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BBC1C0-EEFF-49EC-8248-8A6A7F2B4686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BBC1C0-EEFF-49EC-8248-8A6A7F2B4686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BBC1C0-EEFF-49EC-8248-8A6A7F2B4686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BBC1C0-EEFF-49EC-8248-8A6A7F2B4686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA169702-BFA6-4013-A5D0-C0D7068B89E5}
+	EndGlobalSection
+EndGlobal
